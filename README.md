@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alveerahafeez
 - 👀 I’m interested in coding and hacking
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and Web Development
 - 💞️ I’m looking to collaborate on C++
 - 📫 How to reach me hafeezalveera@gmail.com
 
