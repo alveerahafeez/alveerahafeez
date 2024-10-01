@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alveerahafeez
-- 👀 I’m interested in coding and hacking
-- 🌱 I’m currently learning C++ and Web Development
-- 💞️ I’m looking to collaborate on C++
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning Data Analytics
+- 💞️ I’m looking to collaborate on projects regarding Data Analytics
 - 📫 How to reach me hafeezalveera@gmail.com
 
 <!---
